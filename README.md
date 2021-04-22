@@ -29,6 +29,5 @@
 7.其他功能可自行使用
 #### 特技
 有什么问题可联系wx:xiaoyutoucom
-赞赏:
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0422/105614_e202b5ba_900197.png "屏幕截图.png")
+
 
