@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWechat", "TestWechat.csproj", "{4BB99313-AF54-44BB-A715-A201C5E58305}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{FAB63C7C-24E6-4113-A600-2AED52450802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BB99313-AF54-44BB-A715-A201C5E58305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB99313-AF54-44BB-A715-A201C5E58305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB99313-AF54-44BB-A715-A201C5E58305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB99313-AF54-44BB-A715-A201C5E58305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAB63C7C-24E6-4113-A600-2AED52450802}.Debug|Any CPU.ActiveCfg = Debug
+		{FAB63C7C-24E6-4113-A600-2AED52450802}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C9428A0-97EF-4A41-9EC5-CAC5F2DEA294}
+	EndGlobalSection
+EndGlobal
