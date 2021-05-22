@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Diagnostics;
@@ -606,7 +606,7 @@ namespace TestWechat
                             
 
                                 //reply = reply.Replace("小思", "小鱼儿").Replace("{appellation}", "小主人").Replace("天行", "逗比");
-                                _api.SendMsgWithWIXD(item, ("小鱼儿:" + reply));
+                                _api.SendMsgWithWIXD(item, ("" + reply));
 
                                 //_api.SendMsgWithWIXD(item, (reply));
                             }
@@ -628,7 +628,7 @@ namespace TestWechat
 
 
                                     reply = list.content.Replace("菲菲", "你大哥");
-                                _api.SendMsgWithWIXD(item, ("你大哥:" + reply));
+                                _api.SendMsgWithWIXD(item, ("" + reply));
                                 //_api.SendMsgWithWIXD(item, ( reply));
                             }
                              if (reback3 == "2" || reback3 == "0")
@@ -649,7 +649,7 @@ namespace TestWechat
                                 //reply = ToSimplified(list.newslist[0].reply);
 
                                 //reply = reply.Replace("{robotname}", "逗比机器人").Replace("{appellation}", "小主人").Replace("天行", "逗比");
-                                 _api.SendMsgWithWIXD(item, ("逗比机器人:" + reply));
+                                 _api.SendMsgWithWIXD(item, ("" + reply));
                                 //_api.SendMsgWithWIXD(item, (reply));
                             }
 
