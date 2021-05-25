@@ -1,4 +1,4 @@
-﻿namespace TestWechat
+namespace TestWechat
 {
     partial class Form1
     {
