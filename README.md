@@ -48,7 +48,5 @@
 根据id在十一点后发送早睡提醒功能
 
 7.其他功能可自行使用
-#### 特技
 
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0425/090631_1cd45fea_900197.png "屏幕截图.png")
 
